@@ -1,5 +1,5 @@
 <h1 align="center">I'm Abdul Wahab </h1>
-<h4 align="center">I'm a Jr, Data Scientist</h4>
+<h4 align="center">I'm a Data Scientist</h4>
 
 ### I have technical experience and interest in:
 
